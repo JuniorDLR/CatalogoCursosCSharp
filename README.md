@@ -57,3 +57,5 @@ Riesgos: Ajuste de plazos en revisión final.
 Decisiones: Se utilizó C#
 
 Próximos pasos: Mejorar diseño visual.
+
+evidencias: https://trello.com/invite/b/6910d90c7c82a0853e28eaca/ATTI3d59da4a6c5acf09fb254cab1bd014527AC40CCE/catalogo-de-cursos-equipo-6
