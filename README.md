@@ -34,19 +34,19 @@ Código documentado y comentado.
 Equipo y roles
 
 [Claudio]
-Líder de proyecto
-Coordinar tareas, asignar responsables y supervisar el cumplimiento del cronograma en Trello.
-[Junior]
-Desarrollador Backend
+- Líder de proyecto -
+Coordinar tareas - asignar responsables y supervisar el cumplimiento del cronograma en Trello.
+ - [Junior] - 
+Desarrollador Backend -
 Implementar la lógica de la app (rutas, filtros, paginación) y subir commits en GitHub.
-[André]
-Desarrollador Frontend
+ - [André] -
+Desarrollador Frontend -
 Encargado del diseño visual o interfaz (HTML/CSS o plantillas) y revisión de presentación final.
-[Diego]
-Documentador
+ - [Diego] -
+Documentador -
 Redactar y actualizar el README.md, registro de evidencias y reporte de estatus final.
-[Reynolds]
-Revisor QA
+ - [Reynolds] - 
+Revisor QA -
 Revisar funcionamiento, realizar pruebas básicas y verificar que cada tarea cumpla su Definition of Done (DoD).
 
  Reporte de estatus
