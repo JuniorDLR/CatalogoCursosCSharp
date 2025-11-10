@@ -1,0 +1,15 @@
+C:\Users\junio\CatalogoCursoCsharp\bin\Debug\net9.0\CatalogoCursoCsharp.exe
+C:\Users\junio\CatalogoCursoCsharp\bin\Debug\net9.0\CatalogoCursoCsharp.deps.json
+C:\Users\junio\CatalogoCursoCsharp\bin\Debug\net9.0\CatalogoCursoCsharp.runtimeconfig.json
+C:\Users\junio\CatalogoCursoCsharp\bin\Debug\net9.0\CatalogoCursoCsharp.dll
+C:\Users\junio\CatalogoCursoCsharp\bin\Debug\net9.0\CatalogoCursoCsharp.pdb
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.AssemblyInfoInputs.cache
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.AssemblyInfo.cs
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.sourcelink.json
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.dll
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\refint\CatalogoCursoCsharp.dll
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.pdb
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\CatalogoCursoCsharp.genruntimeconfig.cache
+C:\Users\junio\CatalogoCursoCsharp\obj\Debug\net9.0\ref\CatalogoCursoCsharp.dll
