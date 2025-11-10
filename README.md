@@ -58,6 +58,7 @@ El proyecto forma parte del caso práctico **“Coordinación de tareas: asignac
 ## 🧾 Evidencias
 
 🔗 **Tablero Trello:** [Ver evidencias del proyecto](https://trello.com/invite/b/6910d90c7c82a0853e28eaca/ATTI3d59da4a6c5acf09fb254cab1bd014527AC40CCE/catalogo-de-cursos-equipo-6)
+🔗 **Calendario Trello:**  [Ver evidencias del proyecto] (https://trello.com/calendar/6910d8da3a845d4d63a88653/6910d90c7c82a0853e28eaca/1177dae26a360ec05dc44329df919022.ics)
 
 ---
 ## 🚀 Cómo ejecutar el proyecto
