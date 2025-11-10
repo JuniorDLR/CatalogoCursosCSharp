@@ -18,7 +18,7 @@ class Program
     static void Main()
     {
 
-List<Curso> cursos = new List<Curso>
+        List<Curso> cursos = new List<Curso>
 {
     new Curso { Id = 1, Nombre = "C# Básico", Descripcion = "Aprende los fundamentos de C#." },
     new Curso { Id = 2, Nombre = "Python para principiantes", Descripcion = "Comienza a programar con Python." },
