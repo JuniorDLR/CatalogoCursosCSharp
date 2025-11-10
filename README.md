@@ -69,18 +69,4 @@ El proyecto forma parte del caso práctico **“Coordinación de tareas: asignac
     dotnet --version
     ```
 
-2.  Clona el repositorio:
-    ```bash
-    git clone https://github.com/tuusuario/CatalogoCursosCSharp.git
-    ```
-
-3.  Accede al directorio del proyecto:
-    ```bash
-    cd CatalogoCursosCSharp
-    ```
-
-4.  Ejecuta la aplicación:
-    ```bash
-    dotnet run
-    ```
 
