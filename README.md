@@ -40,7 +40,7 @@ El proyecto forma parte del caso práctico **“Coordinación de tareas: asignac
 |--------------|----------------------|-------------------------------|
 | **Claudio**  | Líder de proyecto    | Coordinar tareas, asignar responsables y supervisar el cumplimiento del cronograma. |
 | **Junior**   | Desarrollador Backend | Implementar la lógica principal (rutas, filtros, paginación) y subir commits a GitHub. |
-| **André**    | Desarrollador Frontend | Diseñar la interfaz visual (HTML/CSS o plantillas) y revisar la presentación final. |
+| **André**    | 2do Desarrollador Backend| Junto con el primer desarrollador, ayuda a crear la mini aplicacion. |
 | **Diego**    | Documentador          | Redactar y mantener actualizado el README.md y el reporte final. |
 | **Reynolds** | Revisor QA            | Revisar funcionamiento, realizar pruebas y verificar cumplimiento del DoD. |
 
