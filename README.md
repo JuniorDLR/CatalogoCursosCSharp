@@ -51,7 +51,7 @@ El proyecto forma parte del caso práctico **“Coordinación de tareas: asignac
 - **Avance:** 100%  
 - **Riesgos:** Ajuste de plazos en revisión final.  
 - **Decisiones:** Se utilizó **C#** como lenguaje principal.  
-- **Próximos pasos:** Mejorar el diseño visual.  
+- **Próximos pasos:** Agregar diseño visual.  
 
 ---
 
